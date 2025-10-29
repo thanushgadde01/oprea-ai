@@ -1,0 +1,5 @@
+{
+  "name": "Opale AI Search Bar",
+  "description": "An AI-powered universal search and assistance bar to help users write, translate, and reuse prompts instantly. This MVP provides a clean, VS Code-inspired interface for managing custom prompts and running quick AI actions powered by the Gemini API.",
+  "requestFramePermissions": []
+}
